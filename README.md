@@ -16,7 +16,7 @@
 
 I'm a second-year Computer Science Engineering student at **ABES Engineering College, Ghaziabad**, interested in the overlap between **backend engineering, cybersecurity, and useful product design**.
 
-I like learning by building. I picked up SQL in seven days when a challenge demanded it, independently solved the HENNGE coding challenge using recursive Python, RFC 6238 TOTP, and HMAC-SHA-512, and I am now going deeper into Go, Docker, cloud, and modern backend systems.
+I like learning by building.
 
 ```python
 ayush = {
