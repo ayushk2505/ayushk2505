@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ayush Kushwaha - backend, security, and thoughtful interfaces" />
+  <h1>AYUSH KUSHWAHA</h1>
+  <h3>Backend Engineering · Cybersecurity · Thoughtful Interfaces</h3>
+  <p><em>Computer Science student building secure, useful software.</em></p>
 </div>
 
-<br />
+---
 
 <div align="center">
   <a href="mailto:ayush.kushwaha2505@gmail.com"><img src="https://img.shields.io/badge/Email-0d121c?style=for-the-badge&logo=gmail&logoColor=f8c85a" alt="Email" /></a>
@@ -117,7 +119,10 @@ backend systems  +  practical security  +  thoughtful interfaces
 
 I'm looking to collaborate on backend, security, developer-tooling, and full-stack projects where curiosity and careful engineering matter.
 
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Build with curiosity, secure with care" />
-</div>
+---
 
+<div align="center">
+  <strong>Build with curiosity. Secure with care.</strong>
+  <br />
+  <sub>Open to learning, collaboration, and ambitious engineering problems.</sub>
+</div>
