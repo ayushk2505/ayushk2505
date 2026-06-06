@@ -51,12 +51,7 @@ ayush = {
       <p>An interactive game written in C to practise control flow, core programming logic, and user input/output.</p>
       <p><code>C</code> <code>CLI</code> <code>Problem Solving</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>HENNGE Challenge</h3>
-      <p><strong>Completed independently</strong></p>
-      <p>A recursive Python solution involving RFC 6238 time-based one-time passwords and HMAC-SHA-512 authentication.</p>
-      <p><code>Python</code> <code>Recursion</code> <code>TOTP</code> <code>HMAC-SHA-512</code></p>
-    </td>
+
   </tr>
 </table>
 
